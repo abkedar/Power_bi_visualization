@@ -79,12 +79,12 @@ any survey whether online or offline.
 
 #### 1. Which Percentage of airline passengers are satisfied? Does it vary by customer type? What about type of travel?
 
-- When data are organise in the graphical manner the passenger `personal` of `Type of Travel` were most dissatified rating to 
+- When data are organise in the graphical manner the passenger `Personal` `Type of Travel` were most dissatified rating to 
 airline service compare to Business Type Passenger.
 	- Amongs Personal Type of travel the age category of 45 to 90 has given lower rating the Onboarding and inflight Servie as 
 	  Their expectation may not have full-filled.
 
-![Image_1](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/AirLines_Passenger_satisfaction.PNG)
+![Image_1](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/Air_Lines-4.PNG)
 
 - So the Business type of Passenger Traveler are most satifies
 - There are more percentage of Retuning Customer amongs the Type of Travel i.e Personal one.
@@ -92,10 +92,10 @@ airline service compare to Business Type Passenger.
 #### 2. What is the customer profile for a repeating airline passenger?
 
 - Amongs all passengers the most number of passenger who travel were the Personal Type of Traveller.
-- Amongs speaking about the Class of Passenger, then Amongs Business class 85% of Customer type were Returning and 15% were First time. 
+- Speaking about the Class of Passenger, then Amongs Business class 85% of Customer type were Returning and 15% were First time. 
   While in Economy Plus and Economy Class 78% Passenger were Returning 
 
-![Image_2](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-4.PNG)
+![Image_2](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-8.PNG)
 
 
 #### 3. Does flight distance affect customer preferences or flight patterns?
@@ -103,16 +103,16 @@ airline service compare to Business Type Passenger.
 - The Average Long Distance Flight were 1190 Units.
 	- Business class Passengers prefer Long Distance whether it is Personal or Business type of Passenger and that was range from Average of 1.71K unit for Business type Passengers and Avg. of 826.8 Units for Personal Type of Passengers.
 
-![Image_3](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-8.PNG)
+![Flight dist_for_Business_class_personal_Type_Passenger](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-8.PNG)
 
-![Image_4](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-9.PNG)
+![Flight dist_for_Business_class_Business_Type_Passenger](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-9.PNG)
 
 	- But when we see at the Economy Class and Economy Plus Class the fligt distance fall for Personal or Business Type of Customer. That was range 
 	  from Average of 687.42 unit for Business type Passengers and Avg. of 790.33 Units for Personal Type of Passengers.
 
-![Image_5](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-7.PNG)
+![Flight dist_for_Economy_class_Business_Type_Passenger](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-7.PNG)
 
-![Image_6](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-6.PNG)
+![Flight dist_for_Economy_class_Personal_Type_Passenger](https://github.com/abkedar/Power_bi_visualization/blob/main/Airlines_Passenger/images/Air_Lines-6.PNG)
 
 
 #### 4. Which factors contribution to customer satisfaction the most? What about dissatisfaction?
