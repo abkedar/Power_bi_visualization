@@ -1,6 +1,6 @@
 # 🏡 Modeling Energy Efficiency in Residential Buildings
 
-This project analyzes the thermal performance of residential buildings using key architectural and design parameters. It explores how features like wall area, roof area, glazing, and building shape impact heating and cooling loads — with the goal of optimizing energy efficiency.
+This project analyzes the thermal performance of residential buildings using key architectural and design parameters. It explores how features like wall area, roof area, glazing, and building shape impact heating and cooling loads with the goal of optimizing energy efficiency.
 
 ---
 
@@ -72,4 +72,4 @@ This project helps architects, engineers, and energy consultants understand whic
 
 Feel free to connect if you'd like to collaborate, contribute, or explore more datasets.
 
-> 🧑‍💻 Made by [Your Name] | 📧 [YourEmail@example.com]
+> 🧑‍💻 Made by Anup Bhande | 📧 anupbhande@gmail.com
